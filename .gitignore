@@ -1,0 +1,5 @@
+Nothing needs to be added to .gitignore since only a single HTML file was added without any build artifacts, dependencies, or temporary files.node_modules/
+.next/
+dist/
+build/
+*.log
